@@ -560,7 +560,7 @@ border-radius: 50%;
  }
 
 .gorod{
-    height: 1160px;
+    height: 1305px;
     background-color: #000;
     position: absolute;
     width: 100%;
@@ -568,6 +568,8 @@ border-radius: 50%;
     margin-top: 6750px;
     background-image:url('../img/gorod.svg');
     background-repeat: no-repeat;
+    background-position: bottom center;
+}
 }
 
 /* здесь второй блок находится */
@@ -801,4 +803,55 @@ padding-top: 28px;
   padding-top: 1100px;
   margin-left: 1440px;
   color: #fff;
+}
+fi{
+  width: 540px;
+  height:98px; 
+  margin-top: 20px;
+  margin-left: 640px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 180px;
+}
+.schaa{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+ 
+}
+
+.circlep{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #FF3FCB;
+  position: absolute;
+  margin-left: 130px;
+  margin-top: 0px;
+  
+}
+
+.circle6{
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.six{
+padding-left: 32px;
+padding-top: 28px;
+}
+.sixsix{
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+.utrechko{
+  color:white;
+  font-family: gilroy;
+  font-weight: bold;
+  font-size: 42px;
 }
